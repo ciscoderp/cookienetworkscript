@@ -1,8 +1,8 @@
-#Cookies Network Script
+# Cookies Network Script
 
-##Is the best in the world? no.. not even close dont have high expections!
+## Is the best in the world? no.. not even close dont have high expections!
 
-###Features [Most require an external SSH server]
+### Features [Most require an external SSH server]
 
 1. Reverse SSH tunnel helper
 2. Create Socks Proxy
